@@ -6,7 +6,7 @@
 
 ## 订阅链接
 
-- 高速优选：`/best_ips.txt`'/ip.txt'
+- 高速优选：`/best_ips.txt` `/ip.txt`
 - 所有可用：`/full_ips.txt`
 
 ## 使用方法
