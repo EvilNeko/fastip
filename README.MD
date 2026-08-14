@@ -1,13 +1,13 @@
 # Cloudflare 优选 IP
 
 **测试地点**: China  
-**更新频率**: 随机  
-**本次更新**: 2026-08-10 16:19:49
+**更新频率**: 每半小时自动更新  
+**本次更新**: 2026-08-14 10:26:19
 
 ## 订阅链接
 
-- 高速优选：`/best_ips.txt` `/ip.txt`
-- 所有可用：`/full_ips.txt`
+- 高速优选：`https://raw.githubusercontent.com/baixin782/fastip/refs/heads/main/best_ips.txt`
+- 所有可用：`https://raw.githubusercontent.com/baixin782/fastip/refs/heads/main/full_ips.txt`
 
 ## 使用方法
 
