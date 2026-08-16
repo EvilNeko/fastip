@@ -2,12 +2,12 @@
 
 **测试地点**: China  
 **更新频率**: 每半小时自动更新  
-**本次更新**: 2026-08-14 10:26:19
+**本次更新**: 2026-08-16 09:35:19
 
 ## 订阅链接
 
-- 高速优选：`https://raw.githubusercontent.com/baixin782/fastip/refs/heads/main/best_ips.txt`
-- 所有可用：`https://raw.githubusercontent.com/baixin782/fastip/refs/heads/main/full_ips.txt`
+- 高速优选：`https://raw.githubusercontent.com/EvilNeko/fastip/refs/heads/main/best_ips.txt`
+- 所有可用：`https://raw.githubusercontent.com/EvilNeko/fastip/refs/heads/main/full_ips.txt`
 
 ## 使用方法
 
